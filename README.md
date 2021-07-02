@@ -1,7 +1,7 @@
 # 
 
 
-# HyMOS (Hyperspherical feature space for Multi-source Open-Set domain adaptation)
+# HyMOS (Hyperspherical classification for Multi-source Open-Set domain adaptation)
 
 PyTorch official implementation of  "[Distance-based Hyperspherical Classification for Multi-source Open-Set Domain Adaptation]()" **coming soon**!
 
