@@ -3,7 +3,7 @@
 
 # HyMOS (Hyperspherical classification for Multi-source Open-Set domain adaptation)
 
-PyTorch official implementation of  "[Distance-based Hyperspherical Classification for Multi-source Open-Set Domain Adaptation]()" **coming soon**!
+PyTorch official implementation of  "[Distance-based Hyperspherical Classification for Multi-source Open-Set Domain Adaptation](https://arxiv.org/abs/2107.02067)" **coming soon**!
 
 ![Test Image 1](image.jpeg)
 
