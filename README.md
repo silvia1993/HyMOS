@@ -10,7 +10,7 @@ _Vision systems trained in close-world scenarios will inevitably fail when prese
 
 |  | D,A -> W | W,A -> D | W,D -> A | Avg. |
 | :---| :---: | :---: | :---: |---: |
-| **HyMOS** | 89.6| 89.5| 60.8 | 79.9 |
+| **HyMOS** | 90.2| 89.9| 60.8 | 80.3 |
 
 **Office-Home (HOS)**
 
