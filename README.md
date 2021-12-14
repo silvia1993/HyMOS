@@ -129,3 +129,15 @@ For example to test the model trained for Office31 shift having Amazon as target
 ```bash
 CUDA_VISIBLE_DEVICES=0 python eval.py --dataset Office31 --test_domain Amazon --load_path logs/Dataset-Office31_Target-Amazon_Mode-HyMOS_st_batchK-20_batchP-2_iterative_ProbST-0.5/last.model
 ```
+
+## Citation
+
+To cite, please use the following reference: 
+```
+@inproceedings{bucci2021distance,
+  title={Distance-based Hyperspherical Classification for Multi-source Open-Set Domain Adaptation},
+  author={Silvia Bucci, Francesco Cappio Borlino, Barbara Caputo, Tatiana Tommasi},
+  booktitle={Winter Conference on Applications of Computer Vision},
+  year={2021}
+} 
+```
