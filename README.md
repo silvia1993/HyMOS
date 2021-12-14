@@ -134,10 +134,10 @@ CUDA_VISIBLE_DEVICES=0 python eval.py --dataset Office31 --test_domain Amazon --
 
 To cite, please use the following reference: 
 ```
-@inproceedings{bucci2021distance,
+@inproceedings{bucci2022distance,
   title={Distance-based Hyperspherical Classification for Multi-source Open-Set Domain Adaptation},
   author={Silvia Bucci, Francesco Cappio Borlino, Barbara Caputo, Tatiana Tommasi},
   booktitle={Winter Conference on Applications of Computer Vision},
-  year={2021}
+  year={2022}
 } 
 ```
